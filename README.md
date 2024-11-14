@@ -12,7 +12,7 @@ This project is compatible on Linux.
 1.Clone the repository
 ```python
 git clone https://github.com/MatLBS/Cub3D_42.git
-cd Cub3D
+cd Cub3D_42
 ```
 2.Compile and lauch the project.
 ```python

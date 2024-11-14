@@ -26,7 +26,7 @@ The map file must be in .cub format, as indicated in the cub3d specifications.
 
 ```⬅️```, ```➡️``` to move the camera of the player.
 
-Press ```E``` near a door to open it.
+Press ```E``` near a door to open/close it.
 
 Press ```Ctrl``` once to be able to move the camera with the mouse.
 

@@ -22,17 +22,17 @@ make
 The map file must be in .cub format, as indicated in the cub3d specifications.
 
 ## Controls
-```W```, ```A```, ```S```, ```D``` to move the player.
+`W`, `A`, `S`, `D` to move the player.
 
-```⬅️```, ```➡️``` to move the camera of the player.
+`⬅️`, `➡️` to move the camera of the player.
 
-Press ```E``` near a door to open/close it.
+Press `E` near a door to open/close it.
 
-Press ```Ctrl``` once to be able to move the camera with the mouse.
+Press `Ctrl` once to be able to move the camera with the mouse.
 
-Press again ```Ctrl``` once to disable this feature.
+Press again `Ctrl` once to disable this feature.
 
-Finaly, keep pressing on ```Left Click``` to take out your knife and kill the zombies 🧟
+Finaly, keep pressing on `Left Click` to take out your knife and kill the zombies 🧟
 
 ## Some Pictures of the project
 

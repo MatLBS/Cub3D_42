@@ -1,4 +1,4 @@
-# 42-Cub3D
+# Cub3D_42
 
 ## Introduction
 Cub3d is a graphical project from 42 School that involves creating a simple 3D game engine using raycasting. It is inspired by early 90s games like Wolfenstein 3D and aims to render a first-person 3D view based on a 2D map. The project covers several topics such as graphics rendering, handling input, and managing game mechanics like player movement and collision detection. It is designed to give students experience with low-level graphics programming and event-driven game loops.
